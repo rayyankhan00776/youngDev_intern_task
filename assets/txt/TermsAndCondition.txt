@@ -1,0 +1,49 @@
+01. Introduction
+Welcome to Rayonix Solutions. We are committed to protecting your privacy and ensuring you have a positive experience with our apps. This Privacy Policy outlines how we collect, use, and safeguard your information when you use our services.
+
+02. Information We Collect
+Most of our apps do not collect any type of data. However, for certain apps that require data collection to function properly, we may collect the following types of information:
+
+Personal Information: Information that can be used to identify you, such as your name, email address, phone number.
+Usage Data: Information about how you use our app, such as the features you use and the time spent on the app.
+Location Information: Information about your location if you have enabled location services on your device.
+03. How We Use Your Information
+We use the information we collect for various purposes, including:
+
+To provide and maintain our services.
+To improve and personalize your experience with our app.
+To communicate with you, including sending you updates, promotional materials, and other information.
+To monitor and analyze usage and trends to improve our app.
+To protect the security and integrity of our app.
+To comply with legal obligations and resolve disputes.
+04. Payment Information
+We use Google Billing or Google Pay for processing payments. These services handle your payment information securely and in compliance with applicable laws and regulations. In some countries we may use third party payment gatways like India and South Korea.
+
+05. Sharing Your Information
+We do not share your personal information with third parties except in the following circumstances:
+
+With your consent: We may share or disclose your information with your consent.
+For external processing: We provide personal information to our affiliates or other trusted businesses to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+For legal reasons: We may share your information if we believe it is necessary to comply with a legal obligation, protect our rights, or prevent fraud or other illegal activities.
+06. Data Security
+We take reasonable measures to protect your information from unauthorized access, use, or disclosure. However, no method of transmission over the internet or electronic storage is completely secure, so we cannot guarantee its absolute security.
+
+07. Your Rights
+You have the right to access, update, or delete your personal information. You can do this by contacting us at services@rayonixsolutions.live. We will respond to your request within a reasonable timeframe.
+
+08. Children's Privacy
+Our services are not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have inadvertently received personal information from a child under 13, we will delete such information from our records.
+
+09. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+
+10. Compliance with Google Play Policies
+Restricted Content: Our apps comply with content policies and local laws, prohibiting child endangerment, inappropriate content, illegal activities, and more. Specific guidelines cover financial services, real-money gambling, user-generated content, health content, blockchain-based content, and AI-generated content.
+Privacy and Security: We protect user privacy and data. Our apps are not deceptive, malicious, or misuse personal data. We adhere to specific requirements for user data handling, permissions, and avoiding device and network abuse.
+Monetization and Ads: Our apps follow Google Play's guidelines for monetization strategies such as paid distribution, in-app products, subscriptions, and ad-based models. We ensure a good user experience and comply with the Payments, Subscriptions, and Ads policies.
+In-App Permissions: Our apps request permissions only for functionalities they genuinely need.
+11. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+
+Rayonix Solutions
+services@rayonixsolutions.com
